@@ -37,7 +37,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity  {
 
-    String Tag1_="server_correct_CartActivity",Tag2_="server_error_CartActivity";
+    String Tag1_="server_correct_CartActivity",Tag2_="server_error_CartActivity";//this is tag 2 by payal
 
     RecyclerView cart_recyclerview;
     MainAdapter adapter;
