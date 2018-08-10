@@ -43,6 +43,8 @@ public class MainActivity extends AppCompatActivity  {
     MainAdapter adapter;
     ArrayList<ListItem> list;
 
+    // changes made
+
     ViewPager viewPager;
     List<String> slider_image=new ArrayList<>();
     Slider_adapter sliderPagerAdapter;
